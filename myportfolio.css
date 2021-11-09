@@ -1,0 +1,83 @@
+body{
+    background-image: url('http://picsoverflow.com/wp-content/uploads/2016/05/Striped-Texture.jpg');
+}
+#div1{
+    font-size: x-large;
+    color: beige;
+    background-color: chocolate;
+    text-align: center;
+}
+.tools{
+    background-color: aquamarine;
+    font-size: larger;
+    color: cornsilk;
+    font-family: cursive;   
+    
+}
+
+  #div2 img{
+    border-radius: 50%;
+      
+  }
+  #div3{
+      font-size: 220%;
+      font-family: fantasy;
+      color: cornsilk;
+      text-shadow: darkred;
+      text-align: right;
+      padding-right: 10%;
+  }
+  #about{
+      background-color: darkslateblue;
+      color: floralwhite;
+      font-size: larger;
+      font-family: cursive;
+      padding-left: 7%;
+      
+  }
+  #skills img{
+      
+      font-size: large;
+      color: lavender;
+          border-radius: 50%;
+  }
+  #skills{
+      font-size: 150%;
+      color: rgb(27, 9, 92);
+      text-align: center;
+      background-color: lightblue;
+      font-family: cursive;
+      
+  }
+  #abc{
+      padding-left: 40%;
+      font-size: 150%;
+      font-family: cursive;
+  }
+  #abc2{
+    padding-left: 40%;
+    font-size: 150%;
+    font-family: cursive;
+    color: rgb(3, 70, 70);
+}
+#contact img{
+border-radius: 50%;
+}
+#contact{
+    background-color: rgb(180, 215, 231);
+    
+}
+#personal{
+    background-color:hsla(184, 72%, 56%, 0.76);
+    font-family: cursive;
+    font-size: large;
+}
+#abc3{
+    text-align: center;
+    font-size: 150%;
+    font-family: cursive;
+    color: rgb(3, 70, 70);
+}
+#para{
+    word-spacing: 100px;
+}
